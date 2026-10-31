@@ -21,3 +21,7 @@ I used Python, Ultralytics YOLOv8, OpenCV, and Roboflow
 ## Project Background
 
 I am the president and electrical lead of Vikings Robotics, FRC Team 2984. My experiences as both an FRC driver and volunteer referee motivated me to develop this project.
+
+## Timeline
+
+This project, from start to where I am now, was around 4 months of work. Looking to improve occlusion handling, set up 3D detection, and integrate with the Field Management System for an easier experience on referees.
